@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SpellChecker2">
+</Property><Property Name="Solution File" Value="C:\Users\Luke Young\Documents\Visual Studio 2010\Projects\SpellChecker2\SpellChecker2.sln">
+</Property><Property Name="Date" Value="Sunday, January 08, 2012">
+</Property><Property Name="Time" Value="19:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SpellChecker2" Source="SpellChecker2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SpellChecker2" Source="SpellChecker2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SpellChecker2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SpellChecker2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SpellChecker2" Source="SpellChecker2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
