@@ -1,0 +1,15 @@
+#SpellerChecker Program by Luke Young
+
+This project is meant to demonstrate an algorithm I wrote, which takes a misspelled word and suggests 
+possible correct spellings. It is a C# console application. When you run the code in Program.cs a 
+console window opens and the user is prompted to enter a word. The program then outputs suggested spellings.
+
+The inspiration for this project came when I read about a programming competition where participants 
+had to create a SpellChecker. The core of this program is the WordChecker Class. The constructor 
+creates a dictionary of all known correctly spelled words. The CompileErrata method searches through 
+a text file that lists common misspellings. The method creates a list of substitutions that turn a 
+misspelled word into a non-misspelled word. It also keeps track if a certain substitution works for 
+multiple words. A list of all substitutions is saved to the output.txt file in the root. The 
+checkWord method takes a misspelled word and cycles through the list of substitutions seeing if it 
+can create a real word. The program will try up to three different combinations of substitutions. 
+I’m proud of this program because it’s a neat solution to an interesting problem!
